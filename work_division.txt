@@ -44,22 +44,22 @@ Dividing the work for a grievance portal project between two beginner-level engi
 #### Week 4: Frontend Development - Basic Interface
 
 **Engineer 1:**
-- Design the frontend layout for the grievance submission form using HTML and CSS.
+- Develop a simple user interface to display submitted grievances and their sentiment scores.
 - Implement the submission form and connect it to the backend API.
 
 **Engineer 2:**
-- Develop a simple user interface to display submitted grievances and their sentiment scores.
+- Design the frontend layout for the grievance submission form using HTML and CSS.
 - Implement client-side form validation and error handling.
 
 #### Week 5: Backend and Frontend Integration
 
 **Engineer 1:**
-- Integrate the frontend submission form with the backend API.
-- Ensure seamless data flow from frontend to backend and vice versa.
-
-**Engineer 2:**
 - Implement functionality to display a list of grievances with their sentiment scores.
 - Write integration tests to ensure end-to-end functionality.
+
+**Engineer 2:**
+- Integrate the frontend submission form with the backend API.
+- Ensure seamless data flow from frontend to backend and vice versa.
 
 #### Week 6: Enhancements and Additional Features
 
@@ -84,11 +84,11 @@ Dividing the work for a grievance portal project between two beginner-level engi
 #### Week 8: Deployment and Documentation
 
 **Engineer 1:**
-- Set up a cloud-based deployment environment (e.g., Heroku, AWS).
-- Deploy the backend and frontend to the cloud platform.
+- Set up a cloud-based deployment environment (e.g., Heroku, AWS). Create a presentation/demo to showcase the project to stakeholders.
+- Write comprehensive documentation for the project, including setup instructions, API documentation, and user guides.
 
 **Engineer 2:**
-- Write comprehensive documentation for the project, including setup instructions, API documentation, and user guides.
+- Deploy the backend and frontend to the cloud platform.
 - Create a presentation/demo to showcase the project to stakeholders.
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

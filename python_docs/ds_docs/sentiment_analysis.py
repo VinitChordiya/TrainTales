@@ -15,7 +15,6 @@ def analyze_sentiment(sentiment_df):
     # """
     sia = SentimentIntensityAnalyzer()
     sentiment_scores = sentiment_df['sentence'].apply(sia.polarity_scores)
-    sentiment_scores = sentiment_scores
     sentiment_df = pd.concat([sentiment_df, sentiment_scores.apply(pd.Series)], axis=1)
 
     # # Initialize sentiment analyzer
