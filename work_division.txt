@@ -120,16 +120,12 @@ Core Features
 
 1. User Registration and Authentication:
 	• Allow users to create accounts and log in to submit updates and complaints.
-2. Real-Time Updates and Notifications:
-	• Implement a system for real-time reporting and notification of train delays, cancellations, and other relevant updates.
-3. Complaint Submission and Tracking:
+2. Complaint Submission and Tracking:
 	• Provide a form for users to submit complaints, categorize them, and track their status.
-4. Sentiment Analysis:
+3. Sentiment Analysis:
 	• Use machine learning models to analyze the sentiment of user-submitted complaints and prioritize them based on urgency.
-5. Interactive Dashboard:
+4. Interactive Dashboard:
 	• Create a dashboard to display real-time updates, user complaints, and sentiment analysis results.
-6. Data Visualization:
-	• Visualize train movements, delays, and reported issues using maps and charts.
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
