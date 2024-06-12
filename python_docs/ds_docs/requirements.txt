@@ -5,6 +5,7 @@ cycler==0.12.1
 Flask==3.0.3
 Flask-Cors==4.0.1
 fonttools==4.53.0
+gensim==4.3.2
 itsdangerous==2.2.0
 Jinja2==3.1.4
 joblib==1.4.2
@@ -24,8 +25,11 @@ scikit-learn==1.5.0
 scipy==1.13.1
 seaborn==0.13.2
 six==1.16.0
+smart-open==7.0.4
 textblob==0.18.0.post0
 threadpoolctl==3.5.0
 tqdm==4.66.4
 tzdata==2024.1
 Werkzeug==3.0.3
+wordcloud==1.9.3
+wrapt==1.16.0
